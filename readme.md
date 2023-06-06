@@ -68,3 +68,5 @@ pip install -r requirements.txt
   该程序使用了 sklearn 库中的决策树分类器和一些评估指标函数。可以使用这些评估指标函数计算分类模型的准确率（accuracy_score）、精确率（precision_score）、召回率（recall_score）和 F1 分数（f1_score）等指标，以评估模型的性能。
 
 - 最后，可以根据实际的测试结果来分析决策树模型在鸢尾花数据集上的分类性能。
+## 程序运行成功截图
+![Image](success.jpg)
